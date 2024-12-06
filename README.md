@@ -2,6 +2,12 @@
 
 This capstone project builds a regressions to predict the humidity based on temperature coastal reasing.
 
+## Table of Contents
+- [Overview](#overview)
+- [Code](#methods)
+- [Notebooks and Code](#notebooks-and-code)
+- [Data](#data)
+
 ## Overview
 
 Over the course of a week, scientists collected humidity readings during medium temperature days in northern California.
@@ -10,7 +16,7 @@ Over the course of a week, scientists collected humidity readings during medium 
 
 Scientists used a raspberry pi with a temperature and humidity reader and placed them in sand dunes 100 meters, 50 meters, and 20 meters from the ocean and collected measurements.
 
-## Notebooks
+## Notebooks and Code
 
 The following notebooks contain analytical code.
 

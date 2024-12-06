@@ -7,6 +7,7 @@ This capstone project builds a regressions to predict the humidity based on temp
 - [Methods](#methods)
 - [Notebooks and Code](#notebooks-and-code)
 - [Data](#data)
+- [Plots and Graphs](#plots-and-graphs)
 
 ## Overview
 
@@ -29,6 +30,16 @@ This notebook contains the code to read the regression data, buils a linear mode
 The data directory contains th following files:
 
 ### regression.csv
+
+This notebook contains the code to read the regression data, build a linear model, and create a line plot
+
+## Plots and Graphs
+
+This graphic shows the linear relationship
+
+He somehow added the image directly in here. look up how?
+
+![Humidity and Temperature Regression](figures/regression.png)
 
 ## Test Section
 

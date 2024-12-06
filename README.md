@@ -23,3 +23,15 @@ This notebook contains the code to read the regression data, buils a linear mode
 The data directory contains th following files:
 
 ### regression.csv
+
+## Test Section
+
+Setting up this section as an exercise for the class. With the following sub-sections:
+
+### Test Sub-Section 1
+
+This is a test again.
+
+### Test Sub-Section 2
+
+Still a test.

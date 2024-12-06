@@ -4,7 +4,7 @@ This capstone project builds a regressions to predict the humidity based on temp
 
 ## Table of Contents
 - [Overview](#overview)
-- [Code](#methods)
+- [Methods](#methods)
 - [Notebooks and Code](#notebooks-and-code)
 - [Data](#data)
 
